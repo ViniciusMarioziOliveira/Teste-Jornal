@@ -112,6 +112,7 @@ main {
 .banner img {
  width: 1480px;
  height: 200px;
+ border-radius: 0px;
 }
 
 .icone {
