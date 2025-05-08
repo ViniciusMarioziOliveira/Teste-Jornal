@@ -110,9 +110,10 @@ main {
 }
 
 .banner img {
- width: 1480px;
- height: 200px;
+ width: 1580px;
+ height: 175px;
  border-radius: 0px;
+ margin-left: -20px;
 }
 
 .icone {
